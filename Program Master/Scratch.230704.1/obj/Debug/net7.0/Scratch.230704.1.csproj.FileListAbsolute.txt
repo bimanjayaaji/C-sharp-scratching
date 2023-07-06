@@ -1,0 +1,15 @@
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\Program Master\Scratch.230704.1\bin\Debug\net7.0\Scratch.230704.1.exe
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\Program Master\Scratch.230704.1\bin\Debug\net7.0\Scratch.230704.1.deps.json
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\Program Master\Scratch.230704.1\bin\Debug\net7.0\Scratch.230704.1.runtimeconfig.json
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\Program Master\Scratch.230704.1\bin\Debug\net7.0\Scratch.230704.1.dll
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\Program Master\Scratch.230704.1\bin\Debug\net7.0\Scratch.230704.1.pdb
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\Program Master\Scratch.230704.1\obj\Debug\net7.0\Scratch.230704.1.csproj.AssemblyReference.cache
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\Program Master\Scratch.230704.1\obj\Debug\net7.0\Scratch.230704.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\Program Master\Scratch.230704.1\obj\Debug\net7.0\Scratch.230704.1.AssemblyInfoInputs.cache
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\Program Master\Scratch.230704.1\obj\Debug\net7.0\Scratch.230704.1.AssemblyInfo.cs
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\Program Master\Scratch.230704.1\obj\Debug\net7.0\Scratch.230704.1.csproj.CoreCompileInputs.cache
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\Program Master\Scratch.230704.1\obj\Debug\net7.0\Scratch.230704.1.dll
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\Program Master\Scratch.230704.1\obj\Debug\net7.0\refint\Scratch.230704.1.dll
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\Program Master\Scratch.230704.1\obj\Debug\net7.0\Scratch.230704.1.pdb
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\Program Master\Scratch.230704.1\obj\Debug\net7.0\Scratch.230704.1.genruntimeconfig.cache
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\Program Master\Scratch.230704.1\obj\Debug\net7.0\ref\Scratch.230704.1.dll
