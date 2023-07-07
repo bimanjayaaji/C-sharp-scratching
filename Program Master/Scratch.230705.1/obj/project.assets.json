@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learner\\000 Work\\230609 Formulatrix Bootcamp\\Program Master\\Scratch.230705.1\\Scratch.230705.1.csproj",
+      "projectUniqueName": "D:\\Learner\\000 Work\\230609 Formulatrix Bootcamp\\C-sharp-scratching\\Program Master\\Scratch.230705.1\\Scratch.230705.1.csproj",
       "projectName": "Scratch.230705.1",
-      "projectPath": "D:\\Learner\\000 Work\\230609 Formulatrix Bootcamp\\Program Master\\Scratch.230705.1\\Scratch.230705.1.csproj",
+      "projectPath": "D:\\Learner\\000 Work\\230609 Formulatrix Bootcamp\\C-sharp-scratching\\Program Master\\Scratch.230705.1\\Scratch.230705.1.csproj",
       "packagesPath": "C:\\Users\\S 410 UN\\.nuget\\packages\\",
-      "outputPath": "D:\\Learner\\000 Work\\230609 Formulatrix Bootcamp\\Program Master\\Scratch.230705.1\\obj\\",
+      "outputPath": "D:\\Learner\\000 Work\\230609 Formulatrix Bootcamp\\C-sharp-scratching\\Program Master\\Scratch.230705.1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\S 410 UN\\AppData\\Roaming\\NuGet\\NuGet.Config",

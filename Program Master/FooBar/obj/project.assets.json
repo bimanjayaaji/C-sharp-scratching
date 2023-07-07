@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learner\\000 Work\\230609 Formulatrix Bootcamp\\Program Master\\FooBar\\FooBar.csproj",
+      "projectUniqueName": "D:\\Learner\\000 Work\\230609 Formulatrix Bootcamp\\C-sharp-scratching\\Program Master\\FooBar\\FooBar.csproj",
       "projectName": "FooBar",
-      "projectPath": "D:\\Learner\\000 Work\\230609 Formulatrix Bootcamp\\Program Master\\FooBar\\FooBar.csproj",
+      "projectPath": "D:\\Learner\\000 Work\\230609 Formulatrix Bootcamp\\C-sharp-scratching\\Program Master\\FooBar\\FooBar.csproj",
       "packagesPath": "C:\\Users\\S 410 UN\\.nuget\\packages\\",
-      "outputPath": "D:\\Learner\\000 Work\\230609 Formulatrix Bootcamp\\Program Master\\FooBar\\obj\\",
+      "outputPath": "D:\\Learner\\000 Work\\230609 Formulatrix Bootcamp\\C-sharp-scratching\\Program Master\\FooBar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\S 410 UN\\AppData\\Roaming\\NuGet\\NuGet.Config",

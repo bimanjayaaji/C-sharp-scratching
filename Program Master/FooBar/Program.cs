@@ -1,4 +1,5 @@
-﻿namespace foobar;
+﻿using System.Text;
+namespace foobar;
 
 class Program
 {
@@ -6,41 +7,53 @@ class Program
     {
         Console.Write("Enter endpoint : ");
         int end = Convert.ToInt32(Console.ReadLine());
-        FooBar fubar = new FooBar(end);
-        fubar.process();
+        FooBar.FooBarGo(end);
     }
 }
 
 class FooBar
 {
-    public int endPoint;
+    public static List<object> myList = new List<object>();
 
-    public FooBar(int endpoint)
+    public static void FooBarGo(int end)
     {
-        endPoint = endpoint;
+        Process(end);
+        Displaying();
     }
 
-    public void process()
+    public static void Displaying()
     {
-        for(int i = 0; i <= endPoint; i++)
+        StringBuilder sb = new StringBuilder();
+        int iter = 0;
+
+        foreach (object item in myList)
+        {
+            iter++;
+            sb.Append(item.ToString());
+            if (iter < myList.Count)
+            {
+                sb.Append(", ");
+            }
+        }
+        Console.WriteLine(sb.ToString());
+    }
+
+    public static void Process(int end)
+    {
+        for(int i = 0; i <= end; i++)
         {
             if (i % 3 == 0 && i % 5 == 0 && i != 0)
             {
-                Console.Write("foobar");
+                myList.Add("foobar");
             } else if (i % 3 == 0 && i != 0)
             {
-                Console.Write("foo");
+                myList.Add("foo");
             } else if (i % 5 == 0 && i != 0)
             {
-                Console.Write("bar");
+                myList.Add("bar");
             } else
             {
-                Console.Write(i);
-            }
-
-            if (i < endPoint)
-            {
-                Console.Write(", ");
+                myList.Add(i);
             }
         }
     }
