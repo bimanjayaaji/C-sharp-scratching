@@ -1,0 +1,31 @@
+# .NET Core
+## Build artifacts
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+## Test Results
+[Tt]est[Rr]esult*
+[Bb]uild[Ll]og.*
+
+## Visual Studio Code
+.vscode/
+
+## NuGet
+**/project.lock.json
+**/*.nuget.props
+**/*.nuget.targets
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og[sS]/

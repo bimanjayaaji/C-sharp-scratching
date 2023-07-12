@@ -1,0 +1,15 @@
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\C-sharp-scratching\Program Master Week 2\FooBarv2\bin\Debug\net7.0\FooBarv2.exe
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\C-sharp-scratching\Program Master Week 2\FooBarv2\bin\Debug\net7.0\FooBarv2.deps.json
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\C-sharp-scratching\Program Master Week 2\FooBarv2\bin\Debug\net7.0\FooBarv2.runtimeconfig.json
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\C-sharp-scratching\Program Master Week 2\FooBarv2\bin\Debug\net7.0\FooBarv2.dll
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\C-sharp-scratching\Program Master Week 2\FooBarv2\bin\Debug\net7.0\FooBarv2.pdb
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\C-sharp-scratching\Program Master Week 2\FooBarv2\obj\Debug\net7.0\FooBarv2.csproj.AssemblyReference.cache
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\C-sharp-scratching\Program Master Week 2\FooBarv2\obj\Debug\net7.0\FooBarv2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\C-sharp-scratching\Program Master Week 2\FooBarv2\obj\Debug\net7.0\FooBarv2.AssemblyInfoInputs.cache
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\C-sharp-scratching\Program Master Week 2\FooBarv2\obj\Debug\net7.0\FooBarv2.AssemblyInfo.cs
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\C-sharp-scratching\Program Master Week 2\FooBarv2\obj\Debug\net7.0\FooBarv2.csproj.CoreCompileInputs.cache
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\C-sharp-scratching\Program Master Week 2\FooBarv2\obj\Debug\net7.0\FooBarv2.dll
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\C-sharp-scratching\Program Master Week 2\FooBarv2\obj\Debug\net7.0\refint\FooBarv2.dll
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\C-sharp-scratching\Program Master Week 2\FooBarv2\obj\Debug\net7.0\FooBarv2.pdb
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\C-sharp-scratching\Program Master Week 2\FooBarv2\obj\Debug\net7.0\FooBarv2.genruntimeconfig.cache
+D:\Learner\000 Work\230609 Formulatrix Bootcamp\C-sharp-scratching\Program Master Week 2\FooBarv2\obj\Debug\net7.0\ref\FooBarv2.dll
