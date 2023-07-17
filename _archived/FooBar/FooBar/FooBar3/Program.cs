@@ -1,4 +1,4 @@
-﻿using System.Text;
+﻿using System.Diagnostics;
 namespace foobar;
 
 class Program
@@ -14,15 +14,15 @@ class Program
         Console.WriteLine("---");
 
         // checking single number condition. returning string.
-        Console.WriteLine(myFooBar.CheckSingleNumber(150));
+        Console.WriteLine(myFooBar.CheckSingleNumber(15));
         Console.WriteLine("---");
 
         // checking foobar sequence of the passed number
         Console.WriteLine(myFooBar.CheckNumber(150));
         Console.WriteLine("---");
 
-        // adding 2 as "fizz"
-        bool x = myFooBar.AddNumber(2, "fizz");
+        // adding 7 as "fizz"
+        bool x = myFooBar.AddNumber(7, "fizz");
         Console.WriteLine(myFooBar.CheckNumber(150));
         Console.WriteLine("---");
 
@@ -38,6 +38,11 @@ class Program
             Console.WriteLine("Key: " + kvp.Key + ", Value: " + kvp.Value);
         }
         Console.WriteLine("---");
+
+        // timing the elapsed time
+        Stopwatch checkNumber = Stopwatch.StartNew();
+        Console.WriteLine(myFooBar.CheckNumber(1000000));
+        checkNumber.Stop();
+        Console.WriteLine(checkNumber.Elapsed);
     }
 }
-
