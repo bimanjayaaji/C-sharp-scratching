@@ -12,6 +12,7 @@
 
 ## Visual Studio Code
 .vscode/
+.vs/
 
 ## NuGet
 **/project.lock.json

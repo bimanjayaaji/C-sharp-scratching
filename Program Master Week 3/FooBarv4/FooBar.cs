@@ -5,39 +5,30 @@ namespace foobar;
 public class FooBarv3
 {
 	private Dictionary<int, string> _conditionDict = new Dictionary<int, string>();
-    private List<int> keys = new List<int>();
 
 	public FooBarv3(Dictionary<int, string> dict)
 	{
 		this._conditionDict = dict;
-		foreach (var x in _conditionDict.Keys)
-		{
-			keys.Add(x);
-			keys.Sort();
-        }
 	}
 
 	public bool AddNumber(int num, string word)
 	{
 		if (_conditionDict.TryAdd(num, word))
-        {
-            _conditionDict[num] = word;
-            keys.Add(num);
-            keys.Sort();
-            return true;
-        }
-        else
-        {
+		{
+			_conditionDict[num] = word;
+			return true;
+		}
+		else
+		{
 			return false;
-        }
-    }
+		}
+	}
 
 	public bool RemoveNumber(int num)
 	{
 		if (_conditionDict.ContainsKey(num))
 		{
 			_conditionDict.Remove(num);
-			keys.Remove(num);
 			return true;
 		}
 		else
@@ -54,7 +45,7 @@ public class FooBarv3
 	public string CheckSingleNumber(int num)
 	{
 		string output = "";
-		foreach (var key in keys)
+		foreach (var key in _conditionDict.Keys.Order())
 		{
 			if (num % key == 0 && num != 0)
 			{
