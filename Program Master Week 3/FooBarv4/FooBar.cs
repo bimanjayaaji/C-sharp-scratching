@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using System.Text;
-namespace foobar;
+namespace foobar1;
 
 public class FooBarv3
 {
